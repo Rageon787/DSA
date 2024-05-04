@@ -2,9 +2,9 @@
 A repository containing implementations of various Data Structures and Algorithms 
 
 # Data Structures 
-- Linked Lists
-- Doubly Linked Lists
-- Trees 
+  ## Linear Data Structures 
+  - Linked lists
+  - Doubly Linked lists 
 # Algorithms 
 - Binary Search
 - Sorting
